@@ -1,0 +1,7 @@
+commit 88ed9d406ccf45c08d1e2159794eeaf1d97fc4c0
+Author: Emmett Lalish <elalish@gmail.com>
+Date:   Mon May 9 08:40:08 2022 -0700
+
+    Merge pull request #103 from pca006132/emscripten
+    
+    build script refactoring
